@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<database>
+    <JDBC_DRIVER>com.mysql.cj.jdbc.Driver</JDBC_DRIVER>
+    <DB_URL>jdbc:mysql://localhost:3306/meeting_rmi?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC</DB_URL>
+    <USER>root</USER>
+    <PASSWORD></PASSWORD>
+</database>
